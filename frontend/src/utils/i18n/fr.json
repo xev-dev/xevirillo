@@ -1,0 +1,16 @@
+{
+    "Welcome": "Bienvenue à Xevirillo",
+    "Insert name": "Introduis un surnom",
+    "Create room": "Créer une salle",
+    "Join room": "Rejoindre une salle",
+    "Code room": "Entrer un code de salle",
+    "Back": "Retourner en arrière",
+    "Confirm": "Confirmer",
+    "Error": "Désolé, une erreur inattendue s'est produite",
+    "Create by": "Salle créée par",
+    "InsertPassword": "Entrez le mot de passe de la salle",
+    "RoomSearch": "Recherche de salles",
+    "searchByCreator": "Surnom du créateur de la salle",
+    "Accept": "Accepter",
+    "PasswordUnmatch": "Le mot de passe n'est pas correct!"
+}

@@ -1,0 +1,16 @@
+{
+    "Welcome": "Willkommen in Xevirillo",
+    "Insert name": "Gib einen Spitznamen ein",
+    "Create room": "Einen Raum erstellen",
+    "Join room": "Einem Raum beitreten",
+    "Code room": "Raumcode eingeben",
+    "Back": "Zurückgehen",
+    "Confirm": "Bestätigen",
+    "Error": "Es tut uns leid, ein unerwarteter Fehler ist aufgetreten",
+    "Create by": "Raum erstellt von",
+    "InsertPassword": "Geben Sie das Zimmerpasswort ein",
+    "RoomSearch": "Raum Suche",
+    "searchByCreator": "Spitzname des Raum-Erstellers",
+    "Accept": "Akzeptieren",
+    "PasswordUnmatch": "Das Passwort ist nicht korrekt!"
+}

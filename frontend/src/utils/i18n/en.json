@@ -1,0 +1,16 @@
+{
+    "Welcome": "Welcome to Xevirillo",
+    "Insert name": "Enter a nickname",
+    "Create room": "Create a room",
+    "Join room": "Join a room",
+    "Code room": "Enter a code room",
+    "Back": "Go back",
+    "Confirm": "Confirm",
+    "Error": "Sorry, an unexpected error has occurred.",
+    "Create by": "Room created by",
+    "InsertPassword": "Insert the room password",
+    "RoomSearch": "Room search",
+    "searchByCreator": "Room creator's nickname",
+    "Accept": "Accept",
+    "PasswordUnmatch": "The password is not correct!"
+}

@@ -1,0 +1,77 @@
+
+$mainBackground: #ffffff;
+$blueBackground: #3b82f6;
+$redBackground: #ef4444;
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html,body,#app,.menuContainer {
+    height: 100%;
+    background-color: $mainBackground;
+}
+
+.menuContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:2rem;
+    .languageSelectorWrapper{
+        display:flex;
+        position:absolute;
+        align-items: center;
+        top: 2rem;
+        right: 1rem;
+        gap:5px;
+        font-size: 1.5rem;
+        .languageSelector {
+            border: solid 1px black; 
+            border-radius: 3px;
+            padding-left: 4px;
+            width: 7rem;
+            height: 2rem;
+        }
+    }
+    .menuInput{
+        border: solid 1px black; 
+        border-radius: 3px;
+        width: 20rem;
+        height: 3rem;
+        padding-left: 4px;
+    }
+    .buttonWrapper{
+        display: flex;
+        justify-content: space-between;
+        width: 20rem;
+        .menuButton {
+            cursor: pointer;
+            border: solid 1px black;
+            width: 8rem;
+            height: 3rem;
+            font-weight: bold;
+            &:disabled{
+                cursor: not-allowed;
+                opacity: 0.5;
+                color: black;
+            }
+        }
+        .blueButton{
+            background-color: $blueBackground;
+        }   
+        .redButton {
+            background-color: $redBackground;
+        }
+    }
+}
+
+.colorsTitle{
+    font-size: 2rem; 
+    line-height: 1.75rem;
+    font-weight: 900;
+}

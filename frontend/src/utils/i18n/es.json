@@ -1,0 +1,16 @@
+{
+    "Welcome": "Bienvenido a Xevirillo",
+    "Insert name": "Introduce un apodo",
+    "Create room": "Crea una sala",
+    "Join room": "Únete a una sala",
+    "Code room": "Introduce un código para la sala",
+    "Back": "Volver atrás",
+    "Confirm": "Confirmar",
+    "Error": "Lo siento, ha ocurrido un error inesperado",
+    "Create by": "Sala creada por",
+    "InsertPassword": "Introduce la contraseña de la sala",
+    "RoomSearch": "Busqueda de salas",
+    "searchByCreator": "Introduce el apodo del creador de la sala",
+    "Accept": "Aceptar",
+    "PasswordUnmatch": "¡La contraseña no es correcta!"
+}

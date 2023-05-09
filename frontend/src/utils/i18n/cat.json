@@ -1,0 +1,16 @@
+{
+    "Welcome": "Benvingut a Xevirillo",
+    "Insert name": "Introdueix un sobrenom",
+    "Create room": "Crea una sala",
+    "Join room": "Uneix-te a una sala",
+    "Code room": "Introdueix un codi per la sala",
+    "Back": "Tornar enrere",
+    "Confirm": "Confirmar",
+    "Error": "Ho sento, ha ocorregut un error inesperat",
+    "Create by": "Sala creada per",
+    "InsertPassword": "Introduïu la contrasenya de la sala",
+    "RoomSearch": "Recerca de sales",
+    "searchByCreator": "Introdueix el sobrenom del creador de la sala",
+    "Accept": "Acceptar",
+    "PasswordUnmatch": "La contrasenya no és correcta!"
+}
